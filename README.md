@@ -1,5 +1,3 @@
-Welcome to your new TanStack app! 
-
 # Getting Started
 
 To run this application:
@@ -16,15 +14,6 @@ To build this application for production:
 ```bash
 pnpm build
 ```
-
-## Testing
-
-This project uses [Vitest](https://vitest.dev/) for testing. You can run the tests with:
-
-```bash
-pnpm test
-```
-
 ## Styling
 
 This project uses [Tailwind CSS](https://tailwindcss.com/) for styling.
