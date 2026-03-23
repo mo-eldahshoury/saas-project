@@ -14,7 +14,7 @@ To build this application for production:
 ```bash
 pnpm build
 ```
-## Styling
+## Styling 
 
 This project uses [Tailwind CSS](https://tailwindcss.com/) for styling.
 
